@@ -1,0 +1,7 @@
+.vs/
+.idea/
+cmake-build-debug
+out/
+x64/
+*.sln
+*.vcxproj*
